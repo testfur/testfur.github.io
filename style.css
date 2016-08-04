@@ -1,0 +1,12 @@
+body {
+  background-color: #e1effc;
+}
+
+#title {
+  margin: 0 auto;
+}
+
+#container {
+  width: 50%;
+  margin: 0 auto;
+}
